@@ -1,0 +1,16 @@
+body{
+  background-color:#000080;
+}
+.headnav{
+  font-family: 'Pacifico', cursive;
+  font-size: 25px;
+}
+.floss{
+  padding:20px;
+}
+.nav{
+  padding:20px;
+}
+.container-fluid{
+  height:80px;
+}
